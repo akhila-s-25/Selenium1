@@ -9,7 +9,7 @@ public class Base_demo {
 		obj.abstractMethod();
 		obj.NormalMethod();
 		obj.NormalMethod1();
-	 
+	 System.out.println("git demo 4");
 	}
 
 }
