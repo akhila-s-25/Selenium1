@@ -27,6 +27,7 @@ public class BrowserNavigationCommands {
 		System.out.println("Page title : "+driver.getTitle());
 		driver.navigate().forward(); // google.com
 		System.out.println("Page title : "+driver.getTitle());
+		System.out.println("git branch");
 		
 		//refresh
 		
